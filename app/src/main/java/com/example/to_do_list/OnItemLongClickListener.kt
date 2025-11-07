@@ -1,5 +1,5 @@
 package com.example.to_do_list
 
-interface OnitemLongClickListener {
+interface OnItemLongClickListener {
     fun onLongClick(position : Int)
 }
